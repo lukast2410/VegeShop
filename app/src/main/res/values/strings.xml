@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VegetarianShop</string>
+    <string name="login_with_huawei">Login with Huawei</string>
+    <string name="not_robot">I am not a robot</string>
+    <string name="home">Home</string>
+    <string name="scan">Scan</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="not_set">Not set</string>
+    <string name="description">Description:</string>
+    <string name="detail">Detail</string>
+    <string name="buy">Buy</string>
+    <string name="qr_code">QR Code</string>
+    <string name="screenshot">Screenshot this QR Code and share to your friends :D</string>
+    <string name="payment_success">Payment Success</string>
+    <string name="checkout">Checkout</string>
+</resources>
